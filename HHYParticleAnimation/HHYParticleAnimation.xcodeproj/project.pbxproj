@@ -13,6 +13,7 @@
 		78A822172424A748007AA69D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78A822152424A748007AA69D /* Main.storyboard */; };
 		78A822192424A74A007AA69D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78A822182424A74A007AA69D /* Assets.xcassets */; };
 		78A8221C2424A74A007AA69D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78A8221A2424A74A007AA69D /* LaunchScreen.storyboard */; };
+		78A822262424BE00007AA69D /* Emitterable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78A822252424BE00007AA69D /* Emitterable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		78A822182424A74A007AA69D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		78A8221B2424A74A007AA69D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		78A8221D2424A74A007AA69D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		78A822252424BE00007AA69D /* Emitterable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Emitterable.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				78A8220F2424A748007AA69D /* AppDelegate.swift */,
 				78A822112424A748007AA69D /* SceneDelegate.swift */,
 				78A822132424A748007AA69D /* ViewController.swift */,
+				78A822252424BE00007AA69D /* Emitterable.swift */,
 				78A822152424A748007AA69D /* Main.storyboard */,
 				78A822182424A74A007AA69D /* Assets.xcassets */,
 				78A8221A2424A74A007AA69D /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				78A822142424A748007AA69D /* ViewController.swift in Sources */,
 				78A822102424A748007AA69D /* AppDelegate.swift in Sources */,
+				78A822262424BE00007AA69D /* Emitterable.swift in Sources */,
 				78A822122424A748007AA69D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
