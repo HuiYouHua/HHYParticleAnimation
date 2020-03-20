@@ -1,3 +1,3 @@
 # HHYParticleAnimation
 粒子动画
-![动图](https://github.com/HuiYouHua/HHYParticleAnimation/blob/master/HHYParticleAnimation/%E5%8A%A8%E5%9B%BE.gif)
+![动图](https://github.com/HuiYouHua/HHYParticleAnimation/blob/master/HHYParticleAnimation/动图.gif)
